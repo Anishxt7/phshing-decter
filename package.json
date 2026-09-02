@@ -1,0 +1,14 @@
+{
+  "name": "phishing-detector",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Browser-based phishing website detection with explainable risk scoring",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.0",
+    "express": "^5.1.0"
+  }
+}
